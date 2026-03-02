@@ -30,3 +30,5 @@ The system recommends movies based on similar users' preferences.
 
 ## 👨‍💻 Author
 Syed Khadar Basha
+## 📷 Project Output
+![Output](your-image-name.jpg)
